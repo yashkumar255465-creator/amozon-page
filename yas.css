@@ -1,0 +1,14 @@
+
+#mycontainer{
+    width:72%;
+    height:400px;
+    position: relative;
+    background: yellow;
+}
+
+#animation{
+    width:70px;
+    height:50px;
+    position: absolute;
+    background:red;
+}
